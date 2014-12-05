@@ -4,8 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+<li>Email address: <img id="email" src="/assets/images/emailaddress.png" alt="Email address image" /></li>
+<ul>
+		<li><a href="http://pgp.mit.edu/pks/lookup?op=get&search=0x29AE21E7ECFE0A1D">My current public key for email</a></li>
+</ul>
+<h1>Social media accounts:</h1>
+<ul>
+<li><a href="http://stackoverflow.com/users/657205/christian-wilkie">Stack Overflow</li>
+<li><a href="https://github.com/ChristianWilkie">GitHub</li>
+<li><a href="https://twitter.com/WilkieChristian">Twitter</li>
+<li><a href="https://www.facebook.com/cwilkie">Facebook</li>
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
