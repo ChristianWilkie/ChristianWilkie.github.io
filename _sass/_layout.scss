@@ -179,8 +179,19 @@
 }
 
 .post-meta {
+    margin-bottom: 0;
     font-size: $small-font-size;
     color: $grey-color;
+}
+
+.post-tags {
+  margin-top: 0;
+  font-size: $small-font-size;
+  color: $grey-color;
+}
+
+.post-tags .post-tags-list {
+  text-decoration: underline;
 }
 
 .post-link {
