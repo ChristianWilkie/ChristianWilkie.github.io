@@ -2,6 +2,7 @@
 layout: post
 title:  "My cat, Sophie!"
 date:   2014-12-05 18:21:01
+tags: sophie
 ---
 Say hello to Sophie!
 
