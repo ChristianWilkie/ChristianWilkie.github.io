@@ -4,10 +4,8 @@ title: About
 permalink: /about/
 ---
 
-<li>Email address: <img id="email" src="/assets/images/emailaddress.png" alt="Email address image" /></li>
-<ul>
-		<li><a href="http://pgp.mit.edu/pks/lookup?op=get&search=0x29AE21E7ECFE0A1D">My current public key for email</a></li>
-</ul>
+<li>Email address: <a href="mailto:christianwilkie@gmail.com">christianwilkie@gmail.com</a></li>
+<li><a href="http://pgp.mit.edu/pks/lookup?op=get&search=0x29AE21E7ECFE0A1D">My current public key for email</a></li>
 <h1>Social media accounts:</h1>
 <ul>
 	<li>
