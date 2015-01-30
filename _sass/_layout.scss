@@ -249,7 +249,13 @@
 /**
  * About page
  */
- 
-.about-info li {
-    line-height: 200%;
+@media screen and (max-width: 480px) {
+    .social-media-list {
+        font-size: 125%;
+        line-height: 50px;
+    }
+    .contact-list a {
+        font-size: 125%;
+        line-height: 50px;
+    }
 }
