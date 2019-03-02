@@ -12,6 +12,13 @@ Summary:
 2. run `gem install jekyll bundler` to install jekyll/bundler
 3. run `bundle update` to update gems
 4. start the site with `bundle exec jekyll serve`
+5. check it out at http://localhost:4000/
+
+## Making a new post
+
+1. run `bundle exec jekyll page "My New Page"`
+
+for more info: https://github.com/jekyll/jekyll-compose
 
 ## troubleshooting
 
