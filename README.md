@@ -28,3 +28,8 @@ Example: `Unable to load the EventMachine C extension; To use the pure-ruby reac
 Solution:
 1. run `gem uninstall eventmachine`
 2. run `gem install eventmachine --platform ruby`
+
+### Initial Setup on Ubuntu 20.10
+1. sudo gem install bundler
+2. sudo bundle update --bundler
+3. bundle update
