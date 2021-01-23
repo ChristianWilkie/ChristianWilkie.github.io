@@ -16,7 +16,7 @@ Summary:
 
 ## Making a new post
 
-1. run `bundle exec jekyll page "My New Page"`
+1. run `bundle exec jekyll post "Raspberry Pi - Test SD Card Speed"`
 
 for more info: https://github.com/jekyll/jekyll-compose
 
