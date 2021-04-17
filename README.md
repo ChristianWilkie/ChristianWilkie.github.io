@@ -14,7 +14,12 @@ Summary:
 4. start the site with `bundle exec jekyll serve`
 5. check it out at http://localhost:4000/
 
-## Making a new post
+## Making a new post (new way)
+
+1. Go to [https://prose.io/#ChristianWilkie/ChristianWilkie.github.io/new/master/_posts](https://prose.io/#ChristianWilkie/ChristianWilkie.github.io/new/master/_posts)
+2. Use the WYSIWYG editor - remember to change the title
+
+## Making a new post (old way)
 
 1. run `bundle exec jekyll post "Raspberry Pi - Test SD Card Speed"`
 
