@@ -4,6 +4,9 @@ title: Setting up Remote Webstorm in Ubuntu 20.10
 date: 2021-04-17 22:55 +0000
 ---
 
+## Why should I care about this?
+This lets you run a GUI program on a server but view it on your client PC. My situation is: I have an older/terrible laptop, but I have a higher powered Linux server that I have access to. I can use X11 forwarding to run computationally intensive stuff on my server so it runs faster and frees up resources on my laptop. But I still get the benefit of being able to interact with the GUI on my laptop. Mostly I've been using it to run [Jetbrains Webstorm](https://www.jetbrains.com/webstorm/) on my server for Angular/React development.
+
 ## Pre-reqs
 First install Webstorm on your server (apt/whatever). I went with the snap:
 
