@@ -35,6 +35,7 @@ Solution:
 2. run `gem install eventmachine --platform ruby`
 
 ### Initial Setup on Ubuntu 20.10
-1. sudo gem install bundler
-2. sudo bundle update --bundler
-3. bundle update
+1. sudo apt-get install ruby-full build-essential
+2. sudo gem install bundler
+3. sudo bundle update --bundler
+4. bundle update
