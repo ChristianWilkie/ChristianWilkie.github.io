@@ -3,16 +3,15 @@
 Main URL: http://www.christianwilkie.com/
 
 
-## Installing a local dev environment
+### Quick Initial Setup on Ubuntu 20.10
+1. `sudo apt-get install ruby-full build-essential`
+2. `sudo gem install bundler`
+3. `sudo bundle update --bundler`
+4. `bundle update`
+5. start the site with `bundle exec jekyll serve`
+6. check it out at http://localhost:4000/
 
-See: https://jekyllrb.com/docs/
-
-Summary:
-1. Install ruby+devkit
-2. run `gem install jekyll bundler` to install jekyll/bundler
-3. run `bundle update` to update gems
-4. start the site with `bundle exec jekyll serve`
-5. check it out at http://localhost:4000/
+See: also https://jekyllrb.com/docs/
 
 ## Making a new post (new way)
 
@@ -33,9 +32,3 @@ Example: `Unable to load the EventMachine C extension; To use the pure-ruby reac
 Solution:
 1. run `gem uninstall eventmachine`
 2. run `gem install eventmachine --platform ruby`
-
-### Initial Setup on Ubuntu 20.10
-1. sudo apt-get install ruby-full build-essential
-2. sudo gem install bundler
-3. sudo bundle update --bundler
-4. bundle update
