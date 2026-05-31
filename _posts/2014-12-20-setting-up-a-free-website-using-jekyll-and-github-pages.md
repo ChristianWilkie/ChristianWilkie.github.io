@@ -6,8 +6,8 @@ date:   2014-12-20 22:18:00
 Recently I was able to cut down on some of my site hosting costs by moving to [GitHub Pages](https://pages.github.com/),
 a free way to host public websites of static content. It won't work for something like WordPress where you need to run
 something server side, but it works great for plain .HTML pages for instance. Also, by using
-[Jekyll](http://jekyllrb.com/) you can dynamically generate static .HTML pages for your site, allowing you to do some
-cool stuff like generate blog posts from [easy-to-write markdown](http://daringfireball.net/projects/markdown/syntax)
+[Jekyll](https://jekyllrb.com/) you can dynamically generate static .HTML pages for your site, allowing you to do some
+cool stuff like generate blog posts from [easy-to-write markdown](https://daringfireball.net/projects/markdown/syntax)
 files.
 
 [Here's how you can get started with your own GitHub site](https://help.github.com/articles/using-jekyll-with-pages/),
@@ -42,5 +42,5 @@ username as needed.
 Your site should then appear on GitHub at `http://username.github.io` after a short time (maybe 10-15 minutes for it
 to be generated for the first time).
 
-To learn more about using Jekyll itself, check out the [official Jekyll site](http://jekyllrb.com/), and especially the
- subpage on [writing posts](http://jekyllrb.com/docs/posts/).
+To learn more about using Jekyll itself, check out the [official Jekyll site](https://jekyllrb.com/), and especially the
+ subpage on [writing posts](https://jekyllrb.com/docs/posts/).

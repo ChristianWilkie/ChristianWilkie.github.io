@@ -9,8 +9,8 @@ permalink: /about/
     	<a href="../assets/wilkieresume20220113.pdf">Resume (PDF)</a>
     </div>
     <div>
-        <a href="http://stackoverflow.com/users/657205/christian-wilkie">
-    <img src="http://stackoverflow.com/users/flair/657205.png" width="208" height="58" alt="profile for Christian Wilkie at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Christian Wilkie at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+        <a href="https://stackoverflow.com/users/657205/christian-wilkie">
+    <img src="https://stackoverflow.com/users/flair/657205.png" width="208" height="58" alt="profile for Christian Wilkie at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Christian Wilkie at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
     </a>
     </div>
 
