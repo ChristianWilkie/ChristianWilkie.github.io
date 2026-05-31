@@ -5,3 +5,4 @@ group :jekyll_plugins do
   gem 'jekyll-compose'
 end
 gem "webrick", "~> 1.8"
+gem "html-proofer", "~> 5.0"
