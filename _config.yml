@@ -4,7 +4,7 @@ email: christianwilkie@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 #optional description
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.christianwilkie.com" # the base hostname & protocol for your site
+url: "https://www.christianwilkie.com" # the base hostname & protocol for your site
 mastodon_instance: fosstodon.org
 mastodon_username: ChristianWilkie
 github_username:  ChristianWilkie
